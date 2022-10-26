@@ -1,0 +1,44 @@
+.thisClass{
+    background-color: rgb(239, 191, 132);
+    width: 30%;
+    height: 15rem;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    margin-left: 28rem;
+    padding-top: 5rem;
+    margin-top: 1rem;
+
+}
+
+.thisFunction{
+    background-color: burlywood;
+    width: 30%;
+    height: 15rem;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    margin-left: 28rem;
+    padding-top: 5rem;
+    margin-top: 0.5rem;
+}
+
+.butN{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(246, 43, 2);
+    color: #fff;
+    width: 7rem;
+    height: 1.5rem;
+    font-size: bold;
+}
+
+.butN1{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(246, 43, 2);
+    color: #fff;
+    width: 7rem;
+    height: 1.5rem;
+    font-size: bold; 
+}
